@@ -1,3 +1,5 @@
+# a piece of code to give even and odd values within a range of numbers
+
 def calcValues(low_num,upper_num,choice):
     evenlist = []
     oddlist = []
